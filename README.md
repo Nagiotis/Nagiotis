@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm [Panagiotis Tsiaousis] 👋
 
-<!--
-**Nagiotis/Nagiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about Data Science and how technology, especially AI and Blockchain can transform our world. I believe there's a huge opportunity to positively change lives through these new technologies. I’m constantly exploring new ways these technologies can help us create smarter, more efficient solutions to real-world problems. My focus is on learning how to leverage data to make impactful decisions and drive positive change.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently honing my skills in Python, MySQL, and diving deeper into Economics and Statistics.
+- ⚡ Passionate about how AI, Blockchain, and Economics can collaborate to solve global challenges.
+- 💡 Fun fact: Bitcoin's halving occurs approximately every four years, reducing the block reward (the amount of Bitcoin miners receive) by 50%.
+
+## Tech Stack & Skills 🛠️
+
+Here are some of the technologies I work with and am currently learning:
+
+- **Programming Languages**: Python, SQL
+- **Data Analysis Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Databases**: MySQL, SQLite
+- **Tools**: Tableau, PowerBI, Looker Studio
+- **Blockchain**: Basics of Blockchain technology
+- **Statistics & Economics**: Regression Analysis, Macroeconomics, Time Series Analysis
