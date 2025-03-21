@@ -1,4 +1,4 @@
-# Hello, I'm [Panagiotis Tsiaousis] 👋
+# Hello, I'm Panagiotis Tsiaousis 👋
 
 Welcome to my GitHub profile! I'm passionate about Data Science and how technology, especially AI and Blockchain can transform our world. I believe there's a huge opportunity to positively change lives through these new technologies. I’m constantly exploring new ways these technologies can help us create smarter, more efficient solutions to real-world problems. My focus is on learning how to leverage data to make impactful decisions and drive positive change.
 
